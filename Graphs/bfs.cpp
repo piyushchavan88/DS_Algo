@@ -4,7 +4,6 @@
 
 using namespace std; 
 
-// adjacency list representation 
 class Graph 
 { 
 	int V; // No. of vertices 
