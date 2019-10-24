@@ -4,7 +4,6 @@
 
 using namespace std; 
 
-// This class represents a directed graph using 
 // adjacency list representation 
 class Graph 
 { 
